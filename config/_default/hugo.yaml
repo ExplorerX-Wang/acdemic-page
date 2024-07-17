@@ -4,16 +4,17 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Website name
-title: Hugo Academic CV Theme
+title: ExplorerX's Page
 # Website URL
-baseURL: 'https://example.com/'
+# baseURL: 'https://example.com/'
+baseURL: 'https://explorerx-wang.github.io/acdemic-page/'
 
 ############################
 ## LANGUAGE
 ############################
 
 defaultContentLanguage: en
-hasCJKLanguage: false
+hasCJKLanguage: true
 defaultContentLanguageInSubdir: false
 removePathAccents: true
 
