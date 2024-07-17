@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: "ExplorerX's Page"
+title: ""
 date: 2024-7-17
 type: landing
 
