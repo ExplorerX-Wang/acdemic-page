@@ -54,8 +54,8 @@ interests:
 education:
   - area: MEng Control Engineering
     institution: Beijing Institute of Technology, Zhuhai
-    date_start: 2024-09
-    date_end:  2027-06
+    date_start: 2024-09-02
+    date_end:  2027-06-30
     summary: |
       GPA: 3.5/4.0
 
@@ -66,8 +66,8 @@ education:
 
   - area: BEng Automation
     institution: Northeastern University, China
-    date_start: 2020-09
-    date_end:  2024-06
+    date_start: 2020-09-12
+    date_end:  2024-06-28
     summary: |
       GPA: 3.66/5.0
       
